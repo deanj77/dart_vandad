@@ -1,3 +1,3 @@
-void main(List<String> args) {
+Future<void> main(List<String> args) async {
   print('hi');
 }
